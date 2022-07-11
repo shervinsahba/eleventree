@@ -2,37 +2,37 @@
   "social": [
     {
       "name": "Twitter",
-      "url": "https://twitter.com/ted2xmen",
+      "url": "https://twitter.com/phyzizizt",
       "icon": "fa-twitter",
-      "slug": "tugrulerdemd",
+      "slug": "phyzizizt",
       "desc": ""
     },
     {
-      "name": "Codepen",
-      "url": "https://codepen.io/ted2xmen",
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=znf_PXkAAAAJ",
       "icon": "fa-codepen",
-      "slug": "Ted2xmen",
+      "slug": "Google Scholar",
       "desc": ""
     },
     {
       "name": "Linkedin",
-      "url": "https://www.linkedin.com/in/tugrulerdemdogru",
+      "url": "https://www.linkedin.com/in/ssahba",
       "icon": "fa-linkedin",
-      "slug": "tugrulerdemdogru",
+      "slug": "ssahba",
       "desc": ""
     },
     {
       "name": "Github",
-      "url": "https://github.com/Ted2xmen",
+      "url": "https://github.com/shervinsahba",
       "icon": "fa-github",
-      "slug": "ted2xmen",
+      "slug": "shervinsahba",
       "desc": ""
     },
     {
-      "name": "Behance",
-      "url": "https://www.behance.net/Ted2xmen",
+      "name": "Research Gate",
+      "url": "https://www.researchgate.net/profile/Shervin-Sahba",
       "icon": "fa-behance",
-      "slug": "ted2xmen",
+      "slug": "Shervin-Sahba",
       "desc": ""
     }
   ]

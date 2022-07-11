@@ -1,27 +1,27 @@
 {
-  "title": "ELEVENTREE || Your Bookmark List",
+  "title": "Shervin Sahba || Home",
   "keywords": "portfolio, cv, bookmarks, personal, blog",
   "description": "Linktree Alternative - build with Eleventy and TailwindCSS",
   "image": "https://www.11ty.dev/img/built/IdthKOzqFA-350.avif",
   "card": "image.gif",
-  "url": "https://eleventree.netlify.app/",
-  "twitter": "https://twitter.com/Ted2xmen",
+  "url": "https://  ", 
+  "twitter": "https://twitter.com/phyzizizt",
   "ua": "G-BSHFXNTVPB",
-  "repository": "https://github.com/Ted2xmen/eleventree",
+  "repository": "https://github.com/shervinsahba/",
 
   "personal": [
     {
-      "fullname": "Tuğrul Erdem Dogru",
-      "bio": "Frontend Developer. Mostly Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore minus quae cum placeat eum et amet sunt quidem aliquid voluptate. Mostly React, Vue and TailwindCSS. Voluptatibus saepe accusamus architecto, tempora sapiente doloremque aliquam adipisci dolor pariatur quod nihil magni, eos ducimus.",
-      "twitter": "ted2xmen",
+      "fullname": "Shervin Sahba",
+      "bio": "PhD Candidate in Computational Physics & ML.",
+      "twitter": "phyzizizt",
       "hireable": true,
-      "work": "freelancer",
-      "github": "https://github.com/Ted2xmen",
-      "cv": "www.google.com",
-      "blog": "https://ted2xmennew.vercel.app/",
-      "avatar": "https://avatars.githubusercontent.com/u/20682437?v=4",
-      "now": "building Eleventyree, learning: Nextjs, watching: Snowpiercer",
-      "stack": ["React", "NextJS", "Tailwind", "Firebase"]
+      "work": "researcher",
+      "github": "https://github.com/shervinsahba",
+      "cv": "https://",
+      "blog": "https://",
+      "avatar": "https://avatars.githubusercontent.com/u/25020522?v=4",
+      "now": "building ML platforms for aero-optics, learning: deeper learning :), reading: Red Rising",
+      "stack": ["Linux", "Python", "Julia", "MATLAB"]
         }
-  ]
+  ] 
 }

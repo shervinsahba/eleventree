@@ -1,8 +1,8 @@
 {
-  "name": "eleventree",
+  "name": "enchanter",
   "version": "1.0.0",
-  "description": "Linktree Alternative",
-  "author": "Ted2xmen",
+  "description": "Personal website and blog",
+  "author": "Shervin Sahba",
   "license": "MIT",
   "scripts": {
     "start": "npm-run-all -p dev:*",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ted2xmen/eleventree.git"
+    "url": "git+https://github.com/shervinsahba/eleventree.git"
   },
-  "homepage": "https://github.com/Ted2xmen/eleventree",
+  "homepage": "https://github.com/shervinsahba/eleventree",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "autoprefixer": "^10.4.7",

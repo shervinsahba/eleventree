@@ -1,6 +1,6 @@
 # my website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/368a81d3-7d0d-41ed-a426-0c3035e5b15a/deploy-status)](https://app.netlify.com/sites/eleventree/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5beac054-c5ae-47ed-b5a3-b88ad123e406/deploy-status)](https://app.netlify.com/sites/shervin/deploys)
  
 Built using [Eleventy](https://www.11ty.dev) with thanks to [Ted2xmen's template](https://github.com/Ted2xmen/eleventree.app). Deployed to [Netlify](https://www.netlify.com).
 

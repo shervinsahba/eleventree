@@ -1,76 +1,28 @@
 {
   "projects": [
     {
-      "name": "Online Haçlı Kaynakları",
-      "preview": "https://online-hacli-kaynaklari.netlify.app/",
-      "repository": "https://github.com/Ted2xmen/online-hacli-kaynaklari",
-      "last": "ted2xmen/online-hacli-kaynaklari",
-      "tech": "React, TailwindCSS",
-      "description": "Haçlı çalışmaları alanındaki birincil kaynaklara hızlı ulaşımı amaç edinmiş bağımsız bir projedir."
+      "name": "Dynamic mode decomposition for aero-optic wavefront characterization ",
+      "preview": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-61/issue-1/013105/Dynamic-mode-decomposition-for-aero-optic-wavefront-characterization/10.1117/1.OE.61.1.013105.short?SSO=1",
+      "repository": "https://github.com/shervinsahba/dmdz",
+      "last": "10.1117/1.OE.61.1.013105",
+      "tech": "aero-optics, dynamic mode decomposition",
+      "description": "Characterizing aero-optical wavefront distortions for adaptive optics prediction and control."
     },
     {
-      "name": "Eleventree",
-      "preview": "https://eleventree.netlify.app/",
-      "repository": "https://github.com/Ted2xmen/eleventree",
-      "last": "ted2xmen/eleventree",
-      "tech": "Eleventy, TailwindCSS",
-      "description": "Bookmark Gallery and Portfolio. An Alternative for Developers"
+      "name": "DMDz: Dynamic Mode Decomposition for Python",
+      "preview": "https://github.com/shervinsahba/dmdz",
+      "repository": "https://github.com/shervinsahba/dmdz",
+      "last": "shervinsahba/dmdz",
+      "tech": "python, dynamic mode decomposition",
+      "description": "An work-in-progress DMD python module. Includes a port of Askham's opt-DMD."
     },
     {
-      "name": "React - Redux TK - Tailwind Starter",
-      "preview": "",
-      "repository": "https://github.com/Ted2xmen/react-reduxtk-tailwind-starter",
-      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
-      "tech": "React, Redux Toolkit, TailwindCSS",
-      "description": "React Starter for me"
-    },
-    {
-      "name": "Pure Notes",
-      "preview": "https://ted2xmen.github.io/pure-notes/",
-      "repository": "https://github.com/Ted2xmen/pure-notes",
-      "last": "ted2xmen/pure-notes",
-      "tech": "Javascript",
-      "description": ""
-    },
-    {
-      "name": "Kütüphaneden",
-      "preview": "https://kutuphaneden.vercel.app/",
-      "repository": "https://github.com/Ted2xmen/kutuphaneden",
-      "last": "ted2xmen/kutuphaneden",
-      "tech": "Javascript",
-      "description": "Yazılıma Yeni Başlayanlar için Okuma Önerileri / Kaynaklar"
-    },
-    {
-      "name": "KRONIKA",
-      "preview": "https://kronika-vue2.vercel.app/#/",
-      "repository": "https://github.com/Ted2xmen/kronika-firebase",
-      "last": "ted2xmen/kronika-firebase",
-      "tech": "Vue 3, Firebase, Bootstrap",
-      "description": "Osmanlı Tarihi Kaynakları"
-    },
-    {
-      "name": "Last FM Scrapper",
-      "preview": "https://github.com/Ted2xmen/lastfm-scraper",
-      "repository": "https://github.com/Ted2xmen/lastfm-scraper",
-      "last": "ted2xmen/lastfm-scraper",
-      "tech": "NodeJS",
-      "description": "Node + Express + Cheerio Web Scrapper"
-    },
-    {
-      "name": "Covid Tracker",
-      "preview": "https://track19.vercel.app/",
-      "last": "ted2xmen/covid-19-tracker",
-      "repository": "https://github.com/Ted2xmen/covid-19-tracker",
-      "tech": "Vue 3, Bootstrap",
-      "description": ""
-    },
-    {
-      "name": "Budget Planner",
-      "preview": "https://ted-budget-app.netlify.app/",
-      "repository": "https://github.com/Ted2xmen/react-budget-planner",
-      "last": "Ted2xmen/react-reduxtk-tailwind-starter",
-      "tech": "React",
-      "description": "My first react app"
+      "name": "Polybar VPN controller",
+      "preview": "https://github.com/shervinsahba/polybar-vpn-controller",
+      "repository": "https://github.com/shervinsahba/polybar-vpn-controller",
+      "last": "shervinsahba/polybar-vpn-controller",
+      "tech": "polybar, shell script",
+      "description": "Polybar module for VPN control. Set up for Mullvad VPN but modifiable for others."
     }
   ]
 }

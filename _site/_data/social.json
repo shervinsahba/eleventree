@@ -10,8 +10,15 @@
     {
       "name": "Google Scholar",
       "url": "https://scholar.google.com/citations?user=znf_PXkAAAAJ",
-      "icon": "fa-codepen",
+      "icon": "ai ai-google-scholar-square",
       "slug": "Google Scholar",
+      "desc": ""
+    },
+    {
+      "name": "Research Gate",
+      "url": "https://www.researchgate.net/profile/Shervin-Sahba",
+      "icon": "ai ai-researchgate",
+      "slug": "Shervin-Sahba",
       "desc": ""
     },
     {
@@ -26,13 +33,6 @@
       "url": "https://github.com/shervinsahba",
       "icon": "fa-github",
       "slug": "shervinsahba",
-      "desc": ""
-    },
-    {
-      "name": "Research Gate",
-      "url": "https://www.researchgate.net/profile/Shervin-Sahba",
-      "icon": "fa-behance",
-      "slug": "Shervin-Sahba",
       "desc": ""
     }
   ]
